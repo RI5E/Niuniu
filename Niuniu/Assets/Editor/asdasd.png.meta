@@ -1,0 +1,1622 @@
+fileFormatVersion: 2
+guid: 0779c79ec95483543bab1c6e0ef229c3
+timeCreated: 1463624429
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asdasd_0
+    21300002: asdasd_1
+    21300004: asdasd_2
+    21300006: asdasd_3
+    21300008: asdasd_4
+    21300010: asdasd_5
+    21300012: asdasd_6
+    21300014: asdasd_7
+    21300016: asdasd_8
+    21300018: asdasd_9
+    21300020: asdasd_10
+    21300022: asdasd_11
+    21300024: asdasd_12
+    21300026: asdasd_13
+    21300028: asdasd_14
+    21300030: asdasd_15
+    21300032: asdasd_16
+    21300034: asdasd_17
+    21300036: asdasd_18
+    21300038: asdasd_19
+    21300040: asdasd_20
+    21300042: asdasd_21
+    21300044: asdasd_22
+    21300046: asdasd_23
+    21300048: asdasd_24
+    21300050: asdasd_25
+    21300052: asdasd_26
+    21300054: asdasd_27
+    21300056: asdasd_28
+    21300058: asdasd_29
+    21300060: asdasd_30
+    21300062: asdasd_31
+    21300064: asdasd_32
+    21300066: asdasd_33
+    21300068: asdasd_34
+    21300070: asdasd_35
+    21300072: asdasd_36
+    21300074: asdasd_37
+    21300076: asdasd_38
+    21300078: asdasd_39
+    21300080: asdasd_40
+    21300082: asdasd_41
+    21300084: asdasd_42
+    21300086: asdasd_43
+    21300088: asdasd_44
+    21300090: asdasd_45
+    21300092: asdasd_46
+    21300094: asdasd_47
+    21300096: asdasd_48
+    21300098: asdasd_49
+    21300100: asdasd_50
+    21300102: asdasd_51
+    21300104: asdasd_52
+    21300106: asdasd_53
+    21300108: asdasd_54
+    21300110: asdasd_55
+    21300112: asdasd_56
+    21300114: asdasd_57
+    21300116: asdasd_58
+    21300118: asdasd_59
+    21300120: asdasd_60
+    21300122: asdasd_61
+    21300124: asdasd_62
+    21300126: asdasd_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.40021226, y: 0.45753723}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: asdasd_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1765
+        width: 158
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5229333, y: 0.53402436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.623459, y: 99.25281}
+        - {x: -29.623459, y: 97.25281}
+        - {x: -74.62346, y: -46.747192}
+        - {x: -68.62346, y: -60.747192}
+        - {x: -80.62346, y: -59.747192}
+        - {x: -82.62346, y: -62.747192}
+        - {x: -82.62346, y: -85.74719}
+        - {x: -76.62346, y: -113.74719}
+        - {x: 75.37654, y: -113.74719}
+        - {x: 75.37654, y: 85.25281}
+        - {x: 60.37654, y: 99.25281}
+    - name: asdasd_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1765
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 106.5}
+        - {x: -26, y: 104.5}
+        - {x: -71, y: -39.5}
+        - {x: -65, y: -53.5}
+        - {x: -77, y: -52.5}
+        - {x: -79, y: -55.5}
+        - {x: -79, y: -78.5}
+        - {x: -73, y: -106.5}
+        - {x: 79, y: -106.5}
+        - {x: 79, y: 92.5}
+        - {x: 64, y: 106.5}
+    - name: asdasd_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1761
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: -52.5}
+        - {x: 68.5, y: -11.5}
+        - {x: 73.5, y: 3.5}
+        - {x: 55.5, y: 23.5}
+        - {x: 37.5, y: 17.5}
+        - {x: 58.5, y: 64.5}
+        - {x: 52.5, y: 104.5}
+        - {x: 48.5, y: 108.5}
+        - {x: -18.5, y: 108.5}
+        - {x: -70.5, y: 64.5}
+        - {x: -73.5, y: 48.5}
+        - {x: -73.5, y: -108.5}
+        - {x: 58.5, y: -108.5}
+        - {x: 73.5, y: -88.5}
+        - {x: 73.5, y: -74.5}
+        - {x: 61.5, y: -68.5}
+    - name: asdasd_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1760
+        width: 147
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: -52}
+        - {x: 68.5, y: -11}
+        - {x: 73.5, y: 4}
+        - {x: 55.5, y: 24}
+        - {x: 37.5, y: 18}
+        - {x: 58.5, y: 65}
+        - {x: 52.5, y: 105}
+        - {x: 36.5, y: 109}
+        - {x: -17.5, y: 109}
+        - {x: -73.5, y: -39}
+        - {x: -73.5, y: -93}
+        - {x: -68.5, y: -109}
+        - {x: 73.5, y: -109}
+        - {x: 73.5, y: -74}
+        - {x: 61.5, y: -68}
+    - name: asdasd_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1758
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 108.5}
+        - {x: -23, y: 107.5}
+        - {x: -58, y: -14.5}
+        - {x: -58, y: -108.5}
+        - {x: 54, y: -108.5}
+        - {x: 58, y: -104.5}
+        - {x: 58, y: 108.5}
+    - name: asdasd_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1758
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 108.5}
+        - {x: -23, y: 107.5}
+        - {x: -58, y: -14.5}
+        - {x: -58, y: -108.5}
+        - {x: 54, y: -108.5}
+        - {x: 58, y: -104.5}
+        - {x: 58, y: 108.5}
+    - name: asdasd_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1758
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 109}
+        - {x: -23, y: 106}
+        - {x: -53, y: 65}
+        - {x: -53, y: -109}
+        - {x: 53, y: -109}
+        - {x: 53, y: 105}
+        - {x: 32, y: 109}
+    - name: asdasd_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1758
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 109}
+        - {x: -23, y: 106}
+        - {x: -53, y: 65}
+        - {x: -53, y: -109}
+        - {x: 53, y: -109}
+        - {x: 53, y: 105}
+        - {x: 32, y: 109}
+    - name: asdasd_8
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1757
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -47}
+        - {x: 31, y: -52}
+        - {x: 44, y: -48}
+        - {x: 49, y: -40}
+        - {x: 49, y: -20}
+        - {x: 33, y: -6}
+        - {x: 49, y: 44}
+        - {x: 49, y: 109}
+        - {x: 31, y: 112}
+        - {x: -49, y: 112}
+        - {x: -49, y: -112}
+        - {x: 10, y: -112}
+        - {x: 13, y: -110}
+        - {x: 5, y: -96}
+        - {x: 1, y: -93}
+        - {x: 7, y: -52}
+    - name: asdasd_9
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1757
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -47}
+        - {x: 31, y: -52}
+        - {x: 44, y: -48}
+        - {x: 49, y: -40}
+        - {x: 49, y: -20}
+        - {x: 33, y: -6}
+        - {x: 49, y: 44}
+        - {x: 49, y: 109}
+        - {x: 31, y: 112}
+        - {x: -49, y: 112}
+        - {x: -49, y: -112}
+        - {x: 10, y: -112}
+        - {x: 13, y: -110}
+        - {x: 5, y: -96}
+        - {x: 1, y: -93}
+        - {x: 7, y: -52}
+    - name: asdasd_10
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1757
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 112}
+        - {x: -66.5, y: -7}
+        - {x: -71.5, y: -39}
+        - {x: -71.5, y: -80}
+        - {x: -49.5, y: -104}
+        - {x: -15.5, y: -112}
+        - {x: -0.5, y: -112}
+        - {x: 71.5, y: -69}
+        - {x: 71.5, y: 112}
+    - name: asdasd_11
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1757
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 112}
+        - {x: -66.5, y: -7}
+        - {x: -71.5, y: -39}
+        - {x: -71.5, y: -80}
+        - {x: -49.5, y: -104}
+        - {x: -15.5, y: -112}
+        - {x: -0.5, y: -112}
+        - {x: 71.5, y: -69}
+        - {x: 71.5, y: 112}
+    - name: asdasd_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1464
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.5, y: 39.5}
+        - {x: 54.5, y: 35.5}
+        - {x: 45.5, y: 29.5}
+        - {x: 66.5, y: 70.5}
+        - {x: 48.5, y: 112.5}
+        - {x: -14.5, y: 112.5}
+        - {x: -37.5, y: 98.5}
+        - {x: -76.5, y: 1.5}
+        - {x: -76.5, y: -65.5}
+        - {x: -74.5, y: -65.5}
+        - {x: -44.5, y: -60.5}
+        - {x: -40.5, y: -43.5}
+        - {x: -35.5, y: -62.5}
+        - {x: -65.5, y: -64.5}
+        - {x: -74.5, y: -77.5}
+        - {x: -54.5, y: -108.5}
+        - {x: -46.5, y: -112.5}
+        - {x: 23.5, y: -112.5}
+        - {x: 52.5, y: -65.5}
+        - {x: 76.5, y: -7.5}
+    - name: asdasd_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1464
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.5, y: 39.5}
+        - {x: 54.5, y: 35.5}
+        - {x: 45.5, y: 29.5}
+        - {x: 66.5, y: 70.5}
+        - {x: 48.5, y: 112.5}
+        - {x: -14.5, y: 112.5}
+        - {x: -37.5, y: 98.5}
+        - {x: -76.5, y: 1.5}
+        - {x: -76.5, y: -65.5}
+        - {x: -74.5, y: -65.5}
+        - {x: -44.5, y: -60.5}
+        - {x: -40.5, y: -43.5}
+        - {x: -35.5, y: -62.5}
+        - {x: -65.5, y: -64.5}
+        - {x: -74.5, y: -77.5}
+        - {x: -54.5, y: -108.5}
+        - {x: -46.5, y: -112.5}
+        - {x: 23.5, y: -112.5}
+        - {x: 52.5, y: -65.5}
+        - {x: 76.5, y: -7.5}
+    - name: asdasd_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1477
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 32.5}
+        - {x: 51, y: 35.5}
+        - {x: 40, y: 27.5}
+        - {x: 69, y: 59.5}
+        - {x: 47, y: 104.5}
+        - {x: -18, y: 104.5}
+        - {x: -32, y: 53.5}
+        - {x: -68, y: 4.5}
+        - {x: -74, y: -28.5}
+        - {x: -74, y: -74.5}
+        - {x: -61, y: -104.5}
+        - {x: 7, y: -104.5}
+        - {x: 56, y: -94.5}
+        - {x: 74, y: -12.5}
+        - {x: 74, y: 23.5}
+    - name: asdasd_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1477
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 32.5}
+        - {x: 51, y: 35.5}
+        - {x: 40, y: 27.5}
+        - {x: 69, y: 59.5}
+        - {x: 47, y: 104.5}
+        - {x: -18, y: 104.5}
+        - {x: -32, y: 53.5}
+        - {x: -68, y: 4.5}
+        - {x: -74, y: -28.5}
+        - {x: -74, y: -74.5}
+        - {x: -61, y: -104.5}
+        - {x: 7, y: -104.5}
+        - {x: 56, y: -94.5}
+        - {x: 74, y: -12.5}
+        - {x: 74, y: 23.5}
+    - name: asdasd_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1475
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 16}
+        - {x: 67, y: 59}
+        - {x: 46, y: 105}
+        - {x: -20, y: 105}
+        - {x: -38, y: 100}
+        - {x: -70, y: 27}
+        - {x: -70, y: -97}
+        - {x: -69, y: -105}
+        - {x: 60, y: -105}
+        - {x: 70, y: -89}
+        - {x: 70, y: 30}
+        - {x: 49, y: 36}
+    - name: asdasd_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1475
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 16}
+        - {x: 67, y: 59}
+        - {x: 46, y: 105}
+        - {x: -20, y: 105}
+        - {x: -38, y: 100}
+        - {x: -70, y: 27}
+        - {x: -70, y: -97}
+        - {x: -69, y: -105}
+        - {x: 60, y: -105}
+        - {x: 70, y: -89}
+        - {x: 70, y: 30}
+        - {x: 49, y: 36}
+    - name: asdasd_18
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1465
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: 89.5}
+        - {x: 42.5, y: 109.5}
+        - {x: -41.5, y: 109.5}
+        - {x: -58.5, y: 50.5}
+        - {x: -58.5, y: -93.5}
+        - {x: -47.5, y: -94.5}
+        - {x: -39.5, y: -86.5}
+        - {x: -29.5, y: -109.5}
+        - {x: 7.5, y: -109.5}
+        - {x: 21.5, y: -105.5}
+        - {x: 23.5, y: -91.5}
+        - {x: 58.5, y: -36.5}
+    - name: asdasd_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1465
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: 89.5}
+        - {x: 42.5, y: 109.5}
+        - {x: -41.5, y: 109.5}
+        - {x: -58.5, y: 50.5}
+        - {x: -58.5, y: -93.5}
+        - {x: -47.5, y: -94.5}
+        - {x: -39.5, y: -86.5}
+        - {x: -29.5, y: -109.5}
+        - {x: 7.5, y: -109.5}
+        - {x: 21.5, y: -105.5}
+        - {x: 23.5, y: -91.5}
+        - {x: 58.5, y: -36.5}
+    - name: asdasd_20
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1464
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -38.5}
+        - {x: 35, y: -44.5}
+        - {x: 48, y: -42.5}
+        - {x: 48, y: -13.5}
+        - {x: 44, y: -8.5}
+        - {x: 35, y: -4.5}
+        - {x: 48, y: 47.5}
+        - {x: 48, y: 84.5}
+        - {x: 43, y: 104.5}
+        - {x: 27, y: 109.5}
+        - {x: 23, y: 110.5}
+        - {x: -30, y: 110.5}
+        - {x: -48, y: 68.5}
+        - {x: -48, y: -110.5}
+        - {x: 13, y: -110.5}
+        - {x: 25, y: -62.5}
+        - {x: 17, y: -47.5}
+        - {x: 8, y: -36.5}
+    - name: asdasd_21
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1464
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -38.5}
+        - {x: 35, y: -44.5}
+        - {x: 48, y: -42.5}
+        - {x: 48, y: -13.5}
+        - {x: 44, y: -8.5}
+        - {x: 35, y: -4.5}
+        - {x: 48, y: 47.5}
+        - {x: 48, y: 84.5}
+        - {x: 43, y: 104.5}
+        - {x: 27, y: 109.5}
+        - {x: 23, y: 110.5}
+        - {x: -30, y: 110.5}
+        - {x: -48, y: 68.5}
+        - {x: -48, y: -110.5}
+        - {x: 13, y: -110.5}
+        - {x: 25, y: -62.5}
+        - {x: 17, y: -47.5}
+        - {x: 8, y: -36.5}
+    - name: asdasd_22
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1465
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 99}
+        - {x: 50, y: 112}
+        - {x: -25, y: 112}
+        - {x: -49, y: 105}
+        - {x: -54, y: 13}
+        - {x: -54, y: -112}
+        - {x: -5, y: -112}
+        - {x: 50, y: -64}
+        - {x: 46, y: -32}
+        - {x: 54, y: -7}
+    - name: asdasd_23
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1465
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 99}
+        - {x: 50, y: 112}
+        - {x: -25, y: 112}
+        - {x: -49, y: 105}
+        - {x: -54, y: 13}
+        - {x: -54, y: -112}
+        - {x: -5, y: -112}
+        - {x: 50, y: -64}
+        - {x: 46, y: -32}
+        - {x: 54, y: -7}
+    - name: asdasd_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1172
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -81}
+        - {x: 72, y: 107}
+        - {x: 50, y: 111}
+        - {x: -9, y: 111}
+        - {x: -35, y: 76}
+        - {x: -72, y: -41}
+        - {x: -72, y: -97}
+        - {x: -54, y: -111}
+        - {x: -40, y: -111}
+        - {x: -35, y: -95}
+        - {x: 13, y: -111}
+        - {x: 59, y: -111}
+    - name: asdasd_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1172
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -81}
+        - {x: 72, y: 107}
+        - {x: 50, y: 111}
+        - {x: -9, y: 111}
+        - {x: -35, y: 76}
+        - {x: -72, y: -41}
+        - {x: -72, y: -97}
+        - {x: -54, y: -111}
+        - {x: -40, y: -111}
+        - {x: -35, y: -95}
+        - {x: 13, y: -111}
+        - {x: 59, y: -111}
+    - name: asdasd_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1185
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 32.5}
+        - {x: 51, y: 35.5}
+        - {x: 40, y: 27.5}
+        - {x: 69, y: 59.5}
+        - {x: 47, y: 104.5}
+        - {x: -18, y: 104.5}
+        - {x: -32, y: 53.5}
+        - {x: -68, y: 4.5}
+        - {x: -74, y: -28.5}
+        - {x: -74, y: -74.5}
+        - {x: -61, y: -104.5}
+        - {x: 7, y: -104.5}
+        - {x: 56, y: -94.5}
+        - {x: 74, y: -12.5}
+        - {x: 74, y: 23.5}
+    - name: asdasd_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1185
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 32.5}
+        - {x: 51, y: 35.5}
+        - {x: 40, y: 27.5}
+        - {x: 69, y: 59.5}
+        - {x: 47, y: 104.5}
+        - {x: -18, y: 104.5}
+        - {x: -32, y: 53.5}
+        - {x: -68, y: 4.5}
+        - {x: -74, y: -28.5}
+        - {x: -74, y: -74.5}
+        - {x: -61, y: -104.5}
+        - {x: 7, y: -104.5}
+        - {x: 56, y: -94.5}
+        - {x: 74, y: -12.5}
+        - {x: 74, y: 23.5}
+    - name: asdasd_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1183
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 16}
+        - {x: 67, y: 59}
+        - {x: 46, y: 105}
+        - {x: -20, y: 105}
+        - {x: -38, y: 100}
+        - {x: -70, y: 27}
+        - {x: -70, y: -97}
+        - {x: -69, y: -105}
+        - {x: 60, y: -105}
+        - {x: 70, y: -89}
+        - {x: 70, y: 30}
+        - {x: 49, y: 36}
+    - name: asdasd_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1183
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 16}
+        - {x: 67, y: 59}
+        - {x: 46, y: 105}
+        - {x: -20, y: 105}
+        - {x: -38, y: 100}
+        - {x: -70, y: 27}
+        - {x: -70, y: -97}
+        - {x: -69, y: -105}
+        - {x: 60, y: -105}
+        - {x: 70, y: -89}
+        - {x: 70, y: 30}
+        - {x: 49, y: 36}
+    - name: asdasd_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1172
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 109.5}
+        - {x: -46.5, y: 73.5}
+        - {x: -60.5, y: -34.5}
+        - {x: -60.5, y: -100.5}
+        - {x: -35.5, y: -109.5}
+        - {x: 5.5, y: -109.5}
+        - {x: 35.5, y: -100.5}
+        - {x: 60.5, y: -77.5}
+        - {x: 60.5, y: 109.5}
+    - name: asdasd_31
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1172
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 109.5}
+        - {x: -46.5, y: 73.5}
+        - {x: -60.5, y: -34.5}
+        - {x: -60.5, y: -100.5}
+        - {x: -35.5, y: -109.5}
+        - {x: 5.5, y: -109.5}
+        - {x: 35.5, y: -100.5}
+        - {x: 60.5, y: -77.5}
+        - {x: 60.5, y: 109.5}
+    - name: asdasd_32
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1176
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 111.5}
+        - {x: -38.5, y: 72.5}
+        - {x: -38.5, y: 60.5}
+        - {x: -32.5, y: 56.5}
+        - {x: -28.5, y: 56.5}
+        - {x: -27.5, y: 48.5}
+        - {x: -23.5, y: 43.5}
+        - {x: -26.5, y: 42.5}
+        - {x: -43.5, y: 18.5}
+        - {x: -45.5, y: 5.5}
+        - {x: -45.5, y: -111.5}
+        - {x: 4.5, y: -111.5}
+        - {x: 45.5, y: -87.5}
+        - {x: 45.5, y: 107.5}
+        - {x: 32.5, y: 111.5}
+    - name: asdasd_33
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1176
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 111.5}
+        - {x: -38.5, y: 72.5}
+        - {x: -38.5, y: 60.5}
+        - {x: -32.5, y: 56.5}
+        - {x: -28.5, y: 56.5}
+        - {x: -27.5, y: 48.5}
+        - {x: -23.5, y: 43.5}
+        - {x: -26.5, y: 42.5}
+        - {x: -43.5, y: 18.5}
+        - {x: -45.5, y: 5.5}
+        - {x: -45.5, y: -111.5}
+        - {x: 4.5, y: -111.5}
+        - {x: 45.5, y: -87.5}
+        - {x: 45.5, y: 107.5}
+        - {x: 32.5, y: 111.5}
+    - name: asdasd_34
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1176
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 116}
+        - {x: -60.5, y: 1}
+        - {x: -60.5, y: -116}
+        - {x: 30.5, y: -116}
+        - {x: 60.5, y: -82}
+        - {x: 60.5, y: 81}
+        - {x: 45.5, y: 116}
+    - name: asdasd_35
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1176
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 116}
+        - {x: -60.5, y: 1}
+        - {x: -60.5, y: -116}
+        - {x: 30.5, y: -116}
+        - {x: 60.5, y: -82}
+        - {x: 60.5, y: 81}
+        - {x: 45.5, y: 116}
+    - name: asdasd_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 924
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -69}
+        - {x: -10, y: -68}
+        - {x: -11, y: -78}
+        - {x: -11, y: -81}
+        - {x: -12, y: -83}
+        - {x: -8, y: -89}
+        - {x: -1, y: -92}
+        - {x: 15, y: -95}
+        - {x: 28, y: -98}
+        - {x: 35, y: -99}
+        - {x: 51, y: -99}
+        - {x: 69, y: -66}
+        - {x: 69, y: 101}
+        - {x: 64, y: 109}
+        - {x: -23, y: 109}
+        - {x: -59, y: 63}
+        - {x: -69, y: 26}
+        - {x: -69, y: -92}
+        - {x: -58, y: -109}
+        - {x: -34, y: -109}
+        - {x: -12, y: -91}
+        - {x: -12, y: -82}
+        - {x: -11, y: -79}
+    - name: asdasd_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 924
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -69}
+        - {x: -10, y: -68}
+        - {x: -11, y: -78}
+        - {x: -11, y: -81}
+        - {x: -12, y: -83}
+        - {x: -8, y: -89}
+        - {x: -1, y: -92}
+        - {x: 15, y: -95}
+        - {x: 28, y: -98}
+        - {x: 35, y: -99}
+        - {x: 51, y: -99}
+        - {x: 69, y: -66}
+        - {x: 69, y: 101}
+        - {x: 64, y: 109}
+        - {x: -23, y: 109}
+        - {x: -59, y: 63}
+        - {x: -69, y: 26}
+        - {x: -69, y: -92}
+        - {x: -58, y: -109}
+        - {x: -34, y: -109}
+        - {x: -12, y: -91}
+        - {x: -12, y: -82}
+        - {x: -11, y: -79}
+    - name: asdasd_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 954
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 23}
+        - {x: 66, y: 35}
+        - {x: 51, y: 31}
+        - {x: 39, y: 22}
+        - {x: 31, y: 3}
+        - {x: 38, y: 21}
+        - {x: 42, y: 29}
+        - {x: 73, y: 54}
+        - {x: 52, y: 100}
+        - {x: -21, y: 100}
+        - {x: -73, y: -46}
+        - {x: -73, y: -100}
+        - {x: 50, y: -100}
+        - {x: 53, y: -89}
+        - {x: 38, y: -49}
+        - {x: 73, y: -5}
+    - name: asdasd_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 954
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 23}
+        - {x: 66, y: 35}
+        - {x: 51, y: 31}
+        - {x: 39, y: 22}
+        - {x: 31, y: 3}
+        - {x: 38, y: 21}
+        - {x: 42, y: 29}
+        - {x: 73, y: 54}
+        - {x: 52, y: 100}
+        - {x: -21, y: 100}
+        - {x: -73, y: -46}
+        - {x: -73, y: -100}
+        - {x: 50, y: -100}
+        - {x: 53, y: -89}
+        - {x: 38, y: -49}
+        - {x: 73, y: -5}
+    - name: asdasd_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 974
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -90}
+        - {x: 7, y: -95}
+        - {x: 64, y: -95}
+        - {x: 75, y: -94}
+        - {x: 75, y: 28}
+        - {x: 65, y: 30}
+        - {x: 53, y: 30}
+        - {x: 47, y: 25}
+        - {x: 72, y: 49}
+        - {x: 58, y: 95}
+        - {x: -20, y: 95}
+        - {x: -62, y: -11}
+        - {x: -29, y: -62}
+        - {x: -26, y: -64}
+        - {x: -32, y: -75}
+        - {x: -31, y: -75}
+        - {x: -32, y: -74}
+        - {x: -31, y: -72}
+        - {x: -31, y: -65}
+        - {x: -45, y: -40}
+        - {x: -61, y: -48}
+        - {x: -75, y: -71}
+        - {x: -75, y: -90}
+        - {x: -72, y: -95}
+        - {x: -15, y: -95}
+        - {x: -2, y: -72}
+        - {x: 4, y: -81}
+        - {x: 2, y: -76}
+    - name: asdasd_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 974
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -90}
+        - {x: 7, y: -95}
+        - {x: 64, y: -95}
+        - {x: 75, y: -94}
+        - {x: 75, y: 28}
+        - {x: 65, y: 30}
+        - {x: 53, y: 30}
+        - {x: 47, y: 25}
+        - {x: 72, y: 49}
+        - {x: 58, y: 95}
+        - {x: -20, y: 95}
+        - {x: -62, y: -11}
+        - {x: -29, y: -62}
+        - {x: -26, y: -64}
+        - {x: -32, y: -75}
+        - {x: -31, y: -75}
+        - {x: -32, y: -74}
+        - {x: -31, y: -72}
+        - {x: -31, y: -65}
+        - {x: -45, y: -40}
+        - {x: -61, y: -48}
+        - {x: -75, y: -71}
+        - {x: -75, y: -90}
+        - {x: -72, y: -95}
+        - {x: -15, y: -95}
+        - {x: -2, y: -72}
+        - {x: 4, y: -81}
+        - {x: 2, y: -76}
+    - name: asdasd_42
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 979
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 96.5}
+        - {x: -73, y: -32.5}
+        - {x: -73, y: -96.5}
+        - {x: 73, y: -96.5}
+        - {x: 73, y: 40.5}
+        - {x: 60, y: 96.5}
+    - name: asdasd_43
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 979
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 96.5}
+        - {x: -73, y: -32.5}
+        - {x: -73, y: -96.5}
+        - {x: 73, y: -96.5}
+        - {x: 73, y: 40.5}
+        - {x: 60, y: 96.5}
+    - name: asdasd_44
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 964
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 16.5}
+        - {x: 49.5, y: 35.5}
+        - {x: 57.5, y: 59.5}
+        - {x: 57.5, y: 72.5}
+        - {x: 48.5, y: 92.5}
+        - {x: 45.5, y: 98.5}
+        - {x: 39.5, y: 101.5}
+        - {x: -32.5, y: 101.5}
+        - {x: -35.5, y: 100.5}
+        - {x: -70.5, y: -50.5}
+        - {x: -70.5, y: -101.5}
+        - {x: 66.5, y: -101.5}
+        - {x: 70.5, y: -88.5}
+        - {x: 70.5, y: 20.5}
+        - {x: 52.5, y: 24.5}
+    - name: asdasd_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 964
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 16.5}
+        - {x: 49.5, y: 35.5}
+        - {x: 57.5, y: 59.5}
+        - {x: 57.5, y: 72.5}
+        - {x: 48.5, y: 92.5}
+        - {x: 45.5, y: 98.5}
+        - {x: 39.5, y: 101.5}
+        - {x: -32.5, y: 101.5}
+        - {x: -35.5, y: 100.5}
+        - {x: -70.5, y: -50.5}
+        - {x: -70.5, y: -101.5}
+        - {x: 66.5, y: -101.5}
+        - {x: 70.5, y: -88.5}
+        - {x: 70.5, y: 20.5}
+        - {x: 52.5, y: 24.5}
+    - name: asdasd_46
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 943
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -96}
+        - {x: 61, y: 100}
+        - {x: 57, y: 109}
+        - {x: 54, y: 111}
+        - {x: -22, y: 111}
+        - {x: -37, y: 107}
+        - {x: -61, y: -44}
+        - {x: -61, y: -88}
+        - {x: -50, y: -111}
+        - {x: -37, y: -111}
+        - {x: -32, y: -99}
+        - {x: -8, y: -111}
+        - {x: 51, y: -111}
+    - name: asdasd_47
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 943
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -96}
+        - {x: 61, y: 100}
+        - {x: 57, y: 109}
+        - {x: 54, y: 111}
+        - {x: -22, y: 111}
+        - {x: -37, y: 107}
+        - {x: -61, y: -44}
+        - {x: -61, y: -88}
+        - {x: -50, y: -111}
+        - {x: -37, y: -111}
+        - {x: -32, y: -99}
+        - {x: -8, y: -111}
+        - {x: 51, y: -111}
+    - name: asdasd_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 650
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 110}
+        - {x: -32, y: 75}
+        - {x: -62, y: -14}
+        - {x: -62, y: -79}
+        - {x: -28, y: -110}
+        - {x: 62, y: -110}
+        - {x: 62, y: 110}
+    - name: asdasd_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 650
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 110}
+        - {x: -32, y: 75}
+        - {x: -62, y: -14}
+        - {x: -62, y: -79}
+        - {x: -28, y: -110}
+        - {x: 62, y: -110}
+        - {x: 62, y: 110}
+    - name: asdasd_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 636
+        width: 129
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 111}
+        - {x: -21.5, y: 103}
+        - {x: -64.5, y: -19}
+        - {x: -64.5, y: -69}
+        - {x: -21.5, y: -111}
+        - {x: 23.5, y: -111}
+        - {x: 41.5, y: -104}
+        - {x: 64.5, y: -90}
+        - {x: 64.5, y: 105}
+        - {x: 49.5, y: 111}
+    - name: asdasd_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 636
+        width: 129
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 111}
+        - {x: -21.5, y: 103}
+        - {x: -64.5, y: -19}
+        - {x: -64.5, y: -69}
+        - {x: -21.5, y: -111}
+        - {x: 23.5, y: -111}
+        - {x: 41.5, y: -104}
+        - {x: 64.5, y: -90}
+        - {x: 64.5, y: 105}
+        - {x: 49.5, y: 111}
+    - name: asdasd_52
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 613
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 105.5}
+        - {x: 61, y: 113.5}
+        - {x: -13, y: 113.5}
+        - {x: -34, y: 110.5}
+        - {x: -69, y: 62.5}
+        - {x: -69, y: -85.5}
+        - {x: -37, y: -113.5}
+        - {x: 38, y: -113.5}
+        - {x: 69, y: -88.5}
+        - {x: 69, y: -76.5}
+        - {x: 66, y: -69.5}
+        - {x: 56, y: -67.5}
+        - {x: 69, y: 19.5}
+    - name: asdasd_53
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 613
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 105.5}
+        - {x: 61, y: 113.5}
+        - {x: -13, y: 113.5}
+        - {x: -34, y: 110.5}
+        - {x: -69, y: 62.5}
+        - {x: -69, y: -85.5}
+        - {x: -37, y: -113.5}
+        - {x: 38, y: -113.5}
+        - {x: 69, y: -88.5}
+        - {x: 69, y: -76.5}
+        - {x: 66, y: -69.5}
+        - {x: 56, y: -67.5}
+        - {x: 69, y: 19.5}
+    - name: asdasd_54
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 592
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 108.5}
+        - {x: -19, y: 99.5}
+        - {x: -60, y: 6.5}
+        - {x: -60, y: -105.5}
+        - {x: -57, y: -108.5}
+        - {x: 59, y: -108.5}
+        - {x: 60, y: -90.5}
+        - {x: 60, y: 108.5}
+    - name: asdasd_55
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 592
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 108.5}
+        - {x: -19, y: 99.5}
+        - {x: -60, y: 6.5}
+        - {x: -60, y: -105.5}
+        - {x: -57, y: -108.5}
+        - {x: 59, y: -108.5}
+        - {x: 60, y: -90.5}
+        - {x: 60, y: 108.5}
+    - name: asdasd_56
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 592
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 102}
+        - {x: -30, y: 101}
+        - {x: -48, y: 87}
+        - {x: -48, y: -102}
+        - {x: 48, y: -102}
+        - {x: 48, y: 101}
+        - {x: 47, y: 102}
+    - name: asdasd_57
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 592
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 102}
+        - {x: -30, y: 101}
+        - {x: -48, y: 87}
+        - {x: -48, y: -102}
+        - {x: 48, y: -102}
+        - {x: 48, y: 101}
+        - {x: 47, y: 102}
+    - name: asdasd_58
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 592
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 104.5}
+        - {x: -33.5, y: 102.5}
+        - {x: -41.5, y: 51.5}
+        - {x: -44.5, y: 51.5}
+        - {x: -44.5, y: -104.5}
+        - {x: 38.5, y: -104.5}
+        - {x: 44.5, y: -22.5}
+        - {x: 44.5, y: 104.5}
+    - name: asdasd_59
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 592
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 104.5}
+        - {x: -33.5, y: 102.5}
+        - {x: -41.5, y: 51.5}
+        - {x: -44.5, y: 51.5}
+        - {x: -44.5, y: -104.5}
+        - {x: 38.5, y: -104.5}
+        - {x: 44.5, y: -22.5}
+        - {x: 44.5, y: 104.5}
+    - name: asdasd_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 300
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 108.5}
+        - {x: -39.5, y: 108.5}
+        - {x: -44.5, y: 104.5}
+        - {x: -44.5, y: -108.5}
+        - {x: 44.5, y: -108.5}
+        - {x: 44.5, y: 100.5}
+        - {x: 42.5, y: 102.5}
+    - name: asdasd_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 300
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 108.5}
+        - {x: -39.5, y: 108.5}
+        - {x: -44.5, y: 104.5}
+        - {x: -44.5, y: -108.5}
+        - {x: 44.5, y: -108.5}
+        - {x: 44.5, y: 100.5}
+        - {x: 42.5, y: 102.5}
+    - name: asdasd_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 296
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -74.5}
+        - {x: -17.5, y: -80.5}
+        - {x: -10.5, y: -104.5}
+        - {x: 18.5, y: -111.5}
+        - {x: 26.5, y: -112.5}
+        - {x: 63.5, y: -112.5}
+        - {x: 63.5, y: 112.5}
+        - {x: -23.5, y: 112.5}
+        - {x: -63.5, y: 14.5}
+        - {x: -63.5, y: -105.5}
+        - {x: -50.5, y: -112.5}
+        - {x: -21.5, y: -112.5}
+        - {x: -19.5, y: -105.5}
+        - {x: -20.5, y: -96.5}
+        - {x: -26.5, y: -90.5}
+    - name: asdasd_63
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 296
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -74.5}
+        - {x: -17.5, y: -80.5}
+        - {x: -10.5, y: -104.5}
+        - {x: 18.5, y: -111.5}
+        - {x: 26.5, y: -112.5}
+        - {x: 63.5, y: -112.5}
+        - {x: 63.5, y: 112.5}
+        - {x: -23.5, y: 112.5}
+        - {x: -63.5, y: 14.5}
+        - {x: -63.5, y: -105.5}
+        - {x: -50.5, y: -112.5}
+        - {x: -21.5, y: -112.5}
+        - {x: -19.5, y: -105.5}
+        - {x: -20.5, y: -96.5}
+        - {x: -26.5, y: -90.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
