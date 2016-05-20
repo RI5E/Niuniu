@@ -36,6 +36,6 @@ public class Player : MonoBehaviour {
 			rb2d.velocity = new Vector2(maxSpeed * sign, rb2d.velocity.y);
 		}
 
-		float y = Input.GetAxis("Vertical");
+		//float y = Input.GetAxis("Vertical");
 	}
 }
