@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niuniu.CSharp.Plugins", "Niuniu.CSharp.Plugins.csproj", "{5B3B490F-2E88-D7F0-B939-DB806E9F58D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niuniu.CSharp", "Niuniu.CSharp.csproj", "{9758E242-216C-7382-D1FC-387B68C9F255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niuniu.CSharp.Editor", "Niuniu.CSharp.Editor.csproj", "{F83DED3C-9918-218B-6571-829797BF97C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B3B490F-2E88-D7F0-B939-DB806E9F58D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3B490F-2E88-D7F0-B939-DB806E9F58D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3B490F-2E88-D7F0-B939-DB806E9F58D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3B490F-2E88-D7F0-B939-DB806E9F58D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9758E242-216C-7382-D1FC-387B68C9F255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9758E242-216C-7382-D1FC-387B68C9F255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9758E242-216C-7382-D1FC-387B68C9F255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9758E242-216C-7382-D1FC-387B68C9F255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83DED3C-9918-218B-6571-829797BF97C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83DED3C-9918-218B-6571-829797BF97C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83DED3C-9918-218B-6571-829797BF97C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83DED3C-9918-218B-6571-829797BF97C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
